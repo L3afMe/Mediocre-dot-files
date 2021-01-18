@@ -1,0 +1,6 @@
+[submodule ".tmux/plugins/nord-tmux"]
+	path = .tmux/plugins/nord-tmux
+	url = https://github.com/arcticicestudio/nord-tmux
+[submodule ".config/rofi/plugins/rofi-wifi-menu"]
+	path = .config/rofi/plugins/rofi-wifi-menu
+	url = https://github.com/zbaylin/rofi-wifi-menu
